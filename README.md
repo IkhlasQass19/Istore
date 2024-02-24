@@ -1,4 +1,4 @@
-#Istore
+# Istore
 Desktop application using JavaFX
 # Project Specifications
 
