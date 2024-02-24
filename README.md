@@ -39,3 +39,11 @@
 - Restrict store access to assigned employees and admins.
 - Display a list of users with access to the store for admins and assigned employees.
 ## Screens
+![WhatsApp Image 2024-02-22 at 21 40 00](https://github.com/IkhlasQass19/Istore/assets/129891260/bede2346-37c1-47dc-af6e-7b31229aa95d)
+![WhatsApp Image 2024-02-22 at 21 41 53](https://github.com/IkhlasQass19/Istore/assets/129891260/67959e2e-ef43-4876-821b-c5f799b53d43)
+![WhatsApp Image 2024-02-22 at 21 42 36](https://github.com/IkhlasQass19/Istore/assets/129891260/4cb1d5dd-dbaa-4bf4-abc1-42a8b927acd4)
+![WhatsApp Image 2024-02-22 at 21 46 12](https://github.com/IkhlasQass19/Istore/assets/129891260/836e5be9-8bae-4422-aea9-93317bbc29ce)
+
+
+
+
